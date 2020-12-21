@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="facebook-java-business-sdk-9.0.0">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../adtools/facebook-java-business-sdk-9.0.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
